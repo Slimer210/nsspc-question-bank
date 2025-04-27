@@ -16,6 +16,7 @@ For Git users, you may clone it via this command: `git clone https://github.com/
 |2023            |Preliminary                    |✅Yes                        |✅Yes                        |
 |2023            |Final                          |❌No                         |❌No                         |
 |2024            |Preliminary                    |✅Yes                        |❌No                         |
+|2024            |Final                          |✅Yes                        |✅Yes                        |
 
 # Contribution
 
