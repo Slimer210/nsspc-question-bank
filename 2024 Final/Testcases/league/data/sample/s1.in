@@ -1,0 +1,12 @@
+11
+match A D
+match B E
+match C F
+point
+match A B
+match B C
+point
+match C A
+point
+match B E
+point
