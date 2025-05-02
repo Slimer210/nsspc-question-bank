@@ -2,9 +2,9 @@
 This is a repository to store question paper of National Secondary School Programming Contest (NSSPC).
 
 # How to Download It?
-The fastest way is to click the `Code > Download ZIP` and extract it.
+The quickest way to obtain the repository is by selecting **Code > Download ZIP** on this page and extracting the downloaded file.
 
-For Git users, you may clone it via this command: `git clone https://github.com/Slimer210/nsspc-question-bank.git`
+Alternatively, if you're using Git, you may simply clone this entire repository via this command: `git clone https://github.com/Slimer210/nsspc-question-bank.git`
 
 # List of Questions
 |Year            |Problemset                     |Full PDF Document included?  |Full Testcases               |
@@ -20,7 +20,9 @@ For Git users, you may clone it via this command: `git clone https://github.com/
 
 # Contribution
 
-If you have any newer question papers (or full testcases), feel free to make a pull request. If you not sure on how to do it, you can create an issue and I will assist promptly. 
+If you have any latest question papers or full testcases, please include it and make a pull request. 
+
+Alternatively, you may contact me via my email or write to me through the **Issues** tab above.
 
 # Disclaimer
 
@@ -28,4 +30,4 @@ The sharing of files in this repository is intended solely for educational purpo
 
 All rights to the original content, including problem statements, solutions, and test cases, remain with the National Secondary School Programming Contest (NSSPC) and their respective authors. If you are the owner of any content and wish for it to be removed or attributed differently, please contact me via email [slimer0210@gmail.com](mailto:slimer0210@gmail.com).
 
-Happy Hacking!
+Happy Hackin'! ୧⁠(⁠ ⁠ಠ⁠ ⁠Д⁠ ⁠ಠ⁠ ⁠)⁠୨
